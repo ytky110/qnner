@@ -1,0 +1,273 @@
+{
+  "title": "基本フランス語語彙 50問",
+  "questions": [
+    {
+      "type": "self",
+      "question": "bonjour",
+      "answer": "こんにちは"
+    },
+    {
+      "type": "choice",
+      "question": "「ありがとう」に当たるフランス語は？",
+      "choices": ["pardon", "merci", "salut"],
+      "answer": "merci"
+    },
+    {
+      "type": "self",
+      "question": "水",
+      "answer": "eau"
+    },
+    {
+      "type": "choice",
+      "question": "「家」はどれ？",
+      "choices": ["école", "ville", "maison"],
+      "answer": "maison"
+    },
+    {
+      "type": "self",
+      "question": "aller",
+      "answer": "行く"
+    },
+    {
+      "type": "self",
+      "question": "食べる",
+      "answer": "manger"
+    },
+    {
+      "type": "choice",
+      "question": "「明日」のフランス語は？",
+      "choices": ["hier", "demain", "aujourd'hui"],
+      "answer": "demain"
+    },
+    {
+      "type": "self",
+      "question": "grand",
+      "answer": "大きい、背が高い"
+    },
+    {
+      "type": "choice",
+      "question": "「友達（男性）」は？",
+      "choices": ["ami", "enfant", "homme"],
+      "answer": "ami"
+    },
+    {
+      "type": "self",
+      "question": "飲む",
+      "answer": "boire"
+    },
+    {
+      "type": "self",
+      "question": "pardon",
+      "answer": "ごめんなさい、すみません"
+    },
+    {
+      "type": "choice",
+      "question": "「本」のフランス語は？",
+      "choices": ["chaise", "livre", "table"],
+      "answer": "livre"
+    },
+    {
+      "type": "self",
+      "question": "venir",
+      "answer": "来る"
+    },
+    {
+      "type": "self",
+      "question": "小さい",
+      "answer": "petit"
+    },
+    {
+      "type": "choice",
+      "question": "「はい」はどれ？",
+      "choices": ["non", "oui", "bonsoir"],
+      "answer": "oui"
+    },
+    {
+      "type": "self",
+      "question": "famille",
+      "answer": "家族"
+    },
+    {
+      "type": "choice",
+      "question": "「話す」のフランス語は？",
+      "choices": ["parler", "voir", "faire"],
+      "answer": "parler"
+    },
+    {
+      "type": "self",
+      "question": "aujourd'hui",
+      "answer": "今日"
+    },
+    {
+      "type": "self",
+      "question": "美しい、きれいな",
+      "answer": "beau"
+    },
+    {
+      "type": "choice",
+      "question": "「学校」はどれ？",
+      "choices": ["maison", "école", "nuit"],
+      "answer": "école"
+    },
+    {
+      "type": "self",
+      "question": "avoir",
+      "answer": "持っている"
+    },
+    {
+      "type": "self",
+      "question": "牛乳",
+      "answer": "lait"
+    },
+    {
+      "type": "choice",
+      "question": "「夜」のフランス語は？",
+      "choices": ["jour", "temps", "nuit"],
+      "answer": "nuit"
+    },
+    {
+      "type": "self",
+      "question": "bon",
+      "answer": "良い、おいしい"
+    },
+    {
+      "type": "self",
+      "question": "見る、会う",
+      "answer": "voir"
+    },
+    {
+      "type": "choice",
+      "question": "「りんご」はどれ？",
+      "choices": ["pomme", "pain", "eau"],
+      "answer": "pomme"
+    },
+    {
+      "type": "self",
+      "question": "vouloir",
+      "answer": "欲しい、〜したい"
+    },
+    {
+      "type": "self",
+      "question": "椅子",
+      "answer": "chaise"
+    },
+    {
+      "type": "choice",
+      "question": "「仕事」のフランス語は？",
+      "choices": ["temps", "travail", "livre"],
+      "answer": "travail"
+    },
+    {
+      "type": "self",
+      "question": "beaucoup",
+      "answer": "たくさん"
+    },
+    {
+      "type": "self",
+      "question": "する、作る",
+      "answer": "faire"
+    },
+    {
+      "type": "choice",
+      "question": "「悪い、おいしくない」は？",
+      "choices": ["mauvais", "nouveau", "bien"],
+      "answer": "mauvais"
+    },
+    {
+      "type": "self",
+      "question": "homme",
+      "answer": "男性、男の人"
+    },
+    {
+      "type": "self",
+      "question": "〜できる",
+      "answer": "pouvoir"
+    },
+    {
+      "type": "choice",
+      "question": "「昨日」のフランス語は？",
+      "choices": ["demain", "hier", "soir"],
+      "answer": "hier"
+    },
+    {
+      "type": "self",
+      "question": "enfant",
+      "answer": "子供"
+    },
+    {
+      "type": "choice",
+      "question": "「新しい」はどれ？",
+      "choices": ["petit", "beau", "nouveau"],
+      "answer": "nouveau"
+    },
+    {
+      "type": "self",
+      "question": "savoir",
+      "answer": "知っている"
+    },
+    {
+      "type": "self",
+      "question": "パン",
+      "answer": "pain"
+    },
+    {
+      "type": "choice",
+      "question": "「来る」のフランス語は？",
+      "choices": ["venir", "aller", "boire"],
+      "answer": "venir"
+    },
+    {
+      "type": "self",
+      "question": "femme",
+      "answer": "女性、女の人、妻"
+    },
+    {
+      "type": "self",
+      "question": "時間、天気",
+      "answer": "temps"
+    },
+    {
+      "type": "choice",
+      "question": "「少し」のフランス語は？",
+      "choices": ["beaucoup", "peu", "bien"],
+      "answer": "peu"
+    },
+    {
+      "type": "self",
+      "question": "être",
+      "answer": "〜である、いる"
+    },
+    {
+      "type": "self",
+      "question": "町、都市",
+      "answer": "ville"
+    },
+    {
+      "type": "choice",
+      "question": "「こんばんは」はどれ？",
+      "choices": ["bonjour", "au revoir", "bonsoir"],
+      "answer": "bonsoir"
+    },
+    {
+      "type": "self",
+      "question": "vouloir",
+      "answer": "欲しい、〜したい"
+    },
+    {
+      "type": "self",
+      "question": "よく、上手に",
+      "answer": "bien"
+    },
+    {
+      "type": "choice",
+      "question": "「飲む」のフランス語は？",
+      "choices": ["manger", "boire", "parler"],
+      "answer": "boire"
+    },
+    {
+      "type": "self",
+      "question": "au revoir",
+      "answer": "さようなら"
+    }
+  ]
+}
