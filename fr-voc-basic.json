@@ -3,271 +3,276 @@
   "questions": [
     {
       "type": "self",
-      "question": "bonjour",
-      "answer": "こんにちは"
+      "question": "「bonjour」を日本語に翻訳しなさい。",
+      "answer": "こんにちは、おはようございます"
     },
     {
       "type": "choice",
-      "question": "「ありがとう」に当たるフランス語は？",
+      "question": "「ありがとう」をフランス語に翻訳しなさい。",
       "choices": ["pardon", "merci", "salut"],
       "answer": "merci"
     },
     {
       "type": "self",
-      "question": "水",
+      "question": "「水」をフランス語に翻訳しなさい。",
       "answer": "eau"
     },
     {
       "type": "choice",
-      "question": "「家」はどれ？",
+      "question": "「家」をフランス語に翻訳しなさい。",
       "choices": ["école", "ville", "maison"],
       "answer": "maison"
     },
     {
       "type": "self",
-      "question": "aller",
+      "question": "「aller」を日本語に翻訳しなさい。",
       "answer": "行く"
     },
     {
       "type": "self",
-      "question": "食べる",
+      "question": "「食べる」をフランス語に翻訳しなさい。",
       "answer": "manger"
     },
     {
       "type": "choice",
-      "question": "「明日」のフランス語は？",
+      "question": "「明日」をフランス語に翻訳しなさい。",
       "choices": ["hier", "demain", "aujourd'hui"],
       "answer": "demain"
     },
     {
       "type": "self",
-      "question": "grand",
+      "question": "「grand」を日本語に翻訳しなさい。",
       "answer": "大きい、背が高い"
     },
     {
       "type": "choice",
-      "question": "「友達（男性）」は？",
+      "question": "「男性の友達」をフランス語に翻訳しなさい。",
       "choices": ["ami", "enfant", "homme"],
       "answer": "ami"
     },
     {
       "type": "self",
-      "question": "飲む",
+      "question": "「飲む」をフランス語に翻訳しなさい。",
       "answer": "boire"
     },
     {
       "type": "self",
-      "question": "pardon",
+      "question": "「pardon」を日本語に翻訳しなさい。",
       "answer": "ごめんなさい、すみません"
     },
     {
       "type": "choice",
-      "question": "「本」のフランス語は？",
+      "question": "「本」をフランス語に翻訳しなさい。",
       "choices": ["chaise", "livre", "table"],
       "answer": "livre"
     },
     {
       "type": "self",
-      "question": "venir",
+      "question": "「venir」を日本語に翻訳しなさい。",
       "answer": "来る"
     },
     {
       "type": "self",
-      "question": "小さい",
+      "question": "「小さい」をフランス語に翻訳しなさい。",
       "answer": "petit"
     },
     {
       "type": "choice",
-      "question": "「はい」はどれ？",
+      "question": "「はい」をフランス語に翻訳しなさい。",
       "choices": ["non", "oui", "bonsoir"],
       "answer": "oui"
     },
     {
       "type": "self",
-      "question": "famille",
+      "question": "「famille」を日本語に翻訳しなさい。",
       "answer": "家族"
     },
     {
       "type": "choice",
-      "question": "「話す」のフランス語は？",
+      "question": "「話す」をフランス語に翻訳しなさい。",
       "choices": ["parler", "voir", "faire"],
       "answer": "parler"
     },
     {
       "type": "self",
-      "question": "aujourd'hui",
+      "question": "「aujourd'hui」を日本語に翻訳しなさい。",
       "answer": "今日"
     },
     {
       "type": "self",
-      "question": "美しい、きれいな",
+      "question": "「美しい、きれいな」をフランス語に翻訳しなさい。",
       "answer": "beau"
     },
     {
       "type": "choice",
-      "question": "「学校」はどれ？",
+      "question": "「学校」をフランス語に翻訳しなさい。",
       "choices": ["maison", "école", "nuit"],
       "answer": "école"
     },
     {
       "type": "self",
-      "question": "avoir",
+      "question": "「avoir」を日本語に翻訳しなさい。",
       "answer": "持っている"
     },
     {
       "type": "self",
-      "question": "牛乳",
+      "question": "「牛乳」をフランス語に翻訳しなさい。",
       "answer": "lait"
     },
     {
       "type": "choice",
-      "question": "「夜」のフランス語は？",
+      "question": "「夜」をフランス語に翻訳しなさい。",
       "choices": ["jour", "temps", "nuit"],
       "answer": "nuit"
     },
     {
       "type": "self",
-      "question": "bon",
+      "question": "「bon」を日本語に翻訳しなさい。",
       "answer": "良い、おいしい"
     },
     {
       "type": "self",
-      "question": "見る、会う",
+      "question": "「見る、会う」をフランス語に翻訳しなさい。",
       "answer": "voir"
     },
     {
       "type": "choice",
-      "question": "「りんご」はどれ？",
+      "question": "「りんご」をフランス語に翻訳しなさい。",
       "choices": ["pomme", "pain", "eau"],
       "answer": "pomme"
     },
     {
       "type": "self",
-      "question": "vouloir",
+      "question": "「vouloir」を日本語に翻訳しなさい。",
       "answer": "欲しい、〜したい"
     },
     {
       "type": "self",
-      "question": "椅子",
+      "question": "「椅子」をフランス語に翻訳しなさい。",
       "answer": "chaise"
     },
     {
       "type": "choice",
-      "question": "「仕事」のフランス語は？",
+      "question": "「仕事」をフランス語に翻訳しなさい。",
       "choices": ["temps", "travail", "livre"],
       "answer": "travail"
     },
     {
       "type": "self",
-      "question": "beaucoup",
+      "question": "「beaucoup」を日本語に翻訳しなさい。",
       "answer": "たくさん"
     },
     {
       "type": "self",
-      "question": "する、作る",
+      "question": "「する、作る」をフランス語に翻訳しなさい。",
       "answer": "faire"
     },
     {
       "type": "choice",
-      "question": "「悪い、おいしくない」は？",
+      "question": "「悪い、おいしくない」をフランス語に翻訳しなさい。",
       "choices": ["mauvais", "nouveau", "bien"],
       "answer": "mauvais"
     },
     {
       "type": "self",
-      "question": "homme",
+      "question": "「homme」を日本語に翻訳しなさい。",
       "answer": "男性、男の人"
     },
     {
       "type": "self",
-      "question": "〜できる",
+      "question": "「〜できる」をフランス語に翻訳しなさい。",
       "answer": "pouvoir"
     },
     {
       "type": "choice",
-      "question": "「昨日」のフランス語は？",
+      "question": "「昨日」をフランス語に翻訳しなさい。",
       "choices": ["demain", "hier", "soir"],
       "answer": "hier"
     },
     {
       "type": "self",
-      "question": "enfant",
+      "question": "「enfant」を日本語に翻訳しなさい。",
       "answer": "子供"
     },
     {
       "type": "choice",
-      "question": "「新しい」はどれ？",
+      "question": "「新しい」をフランス語に翻訳しなさい。",
       "choices": ["petit", "beau", "nouveau"],
       "answer": "nouveau"
     },
     {
       "type": "self",
-      "question": "savoir",
+      "question": "「savoir」を日本語に翻訳しなさい。",
       "answer": "知っている"
     },
     {
       "type": "self",
-      "question": "パン",
+      "question": "「パン」をフランス語に翻訳しなさい。",
       "answer": "pain"
     },
     {
       "type": "choice",
-      "question": "「来る」のフランス語は？",
+      "question": "「来る」をフランス語に翻訳しなさい。",
       "choices": ["venir", "aller", "boire"],
       "answer": "venir"
     },
     {
       "type": "self",
-      "question": "femme",
+      "question": "「femme」を日本語に翻訳しなさい。",
       "answer": "女性、女の人、妻"
     },
     {
       "type": "self",
-      "question": "時間、天気",
+      "question": "「時間、天気」をフランス語に翻訳しなさい。",
       "answer": "temps"
     },
     {
       "type": "choice",
-      "question": "「少し」のフランス語は？",
+      "question": "「少し」をフランス語に翻訳しなさい。",
       "choices": ["beaucoup", "peu", "bien"],
       "answer": "peu"
     },
     {
       "type": "self",
-      "question": "être",
+      "question": "「être」を日本語に翻訳しなさい。",
       "answer": "〜である、いる"
     },
     {
       "type": "self",
-      "question": "町、都市",
+      "question": "「町、都市」をフランス語に翻訳しなさい。",
       "answer": "ville"
     },
     {
       "type": "choice",
-      "question": "「こんばんは」はどれ？",
+      "question": "「こんばんは」をフランス語に翻訳しなさい。",
       "choices": ["bonjour", "au revoir", "bonsoir"],
       "answer": "bonsoir"
     },
     {
       "type": "self",
-      "question": "vouloir",
-      "answer": "欲しい、〜したい"
-    },
-    {
-      "type": "self",
-      "question": "よく、上手に",
+      "question": "「よく、上手に」をフランス語に翻訳しなさい。",
       "answer": "bien"
     },
     {
+      "type": "self",
+      "question": "「au revoir」を日本語に翻訳しなさい。",
+      "answer": "さようなら"
+    },
+    {
       "type": "choice",
-      "question": "「飲む」のフランス語は？",
-      "choices": ["manger", "boire", "parler"],
-      "answer": "boire"
+      "question": "「犬」をフランス語に翻訳しなさい。",
+      "choices": ["chat", "chien", "cheval"],
+      "answer": "chien"
     },
     {
       "type": "self",
-      "question": "au revoir",
-      "answer": "さようなら"
+      "question": "「寝る」をフランス語に翻訳しなさい。",
+      "answer": "dormir"
+    },
+    {
+      "type": "self",
+      "question": "「速い」をフランス語に翻訳しなさい。",
+      "answer": "rapide"
     }
   ]
 }
